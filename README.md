@@ -35,25 +35,37 @@ WRITE DESCRIPTION HERE
 
 [https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) _by [Zelda64Recomp](https://github.com/Zelda64Recomp)_ [Released] [Active]
 
+WRITE DESCRIPTION HERE
+
 #### The Legend of Zelda Ocarina of Time :lock: :bell:
 
 [https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) _by [Zelda64Recomp](https://github.com/Zelda64Recomp)_ [Unreleased] [Active]
+
+WRITE DESCRIPTION HERE
 
 #### Mario Kart 64 :unlock: :bell:
 
 [https://github.com/sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) _by [sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
 
+WRITE DESCRIPTION HERE
+
 #### Mystical Ninja Starring Goemon :unlock: :bell:
 
 [https://github.com/klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) _by [klorfmorf](https://github.com/klorfmorf)_ [Released] [Active]
+
+WRITE DESCRIPTION HERE
 
 #### Quest 64 :lock: :bell:
 
 [https://youtu.be/NtSDwwZqJ5A?si=A93gIoB3QYPCB9td&t=196](https://youtu.be/NtSDwwZqJ5A?si=A93gIoB3QYPCB9td&t=196) _by Unknown_ [Unreleased] [Unknown]
 
+WRITE DESCRIPTION HERE
+
 #### Super Smash Bros :lock: :bell:
 
 [https://youtu.be/NtSDwwZqJ5A?si=St3MLQuqpyBEaI_F&t=171](https://youtu.be/NtSDwwZqJ5A?si=St3MLQuqpyBEaI_F&t=171) _by Unknown_ [Unreleased] [Unknown]
+
+WRITE DESCRIPTION HERE
 
 ### Xbox 360
 
@@ -61,14 +73,22 @@ WRITE DESCRIPTION HERE
 
 [https://github.com/kholdfuzion/beanRecomp](https://github.com/kholdfuzion/beanRecomp) _by [kholdfuzion](https://github.com/kholdfuzion)_ [Unreleased] [Active]
 
+WRITE DESCRIPTION HERE
+
 #### Midnight Club Los Angeles :lock: :bell:
 
 [https://old.reddit.com/r/midnightclub/comments/1j62suw/mcla_port_to_pc_news/](https://old.reddit.com/r/midnightclub/comments/1j62suw/mcla_port_to_pc_news/) _by [AMZxs](https://old.reddit.com/user/AMZxs)_ [Unreleased] [Active]
+
+WRITE DESCRIPTION HERE
 
 #### Sonic 06 :lock: :bell:
 
 [https://bsky.app/profile/isaacmarovitz.com/post/3lthdfe53ss2c](https://bsky.app/profile/isaacmarovitz.com/post/3lthdfe53ss2c) _by [isaacmarovitz](https://bsky.app/profile/isaacmarovitz.com)_ [Unreleased] [Active]
 
+WRITE DESCRIPTION HERE
+
 #### Sonic Unleashed :unlock: :bell:
 
 [https://github.com/hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) _by [hedge-dev](https://github.com/hedge-dev)_ [Released] [Active]
+
+WRITE DESCRIPTION HERE
