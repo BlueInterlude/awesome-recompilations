@@ -9,7 +9,7 @@ Recompiled N64 and Xbox 360 ROMs using N64Recomp and XenonRecomp.
 
 #### Chameleon Twist :lock: :bell:
 
-[https://github.com/sonicdcer/ChameleonTwist1-JP-Recomp](https://github.com/sonicdcer/ChameleonTwist1-JP-Recomp) _by [sonicdcer](https://github.com/sonicdcer)_ [Unreleased] [Active]
+[https://github.com/Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) _by [Rainchus](https://github.com/Rainchus)_ [Unreleased] [Active]
 
 WRITE DESCRIPTION HERE
 
@@ -27,7 +27,7 @@ WRITE DESCRIPTION HERE
 
 #### Kirby and the Crystal Shards :lock: :bell:
 
-[https://youtu.be/NtSDwwZqJ5A?si=if0sZh28ocq-XM_i&t=180](https://youtu.be/NtSDwwZqJ5A?si=if0sZh28ocq-XM_i&t=180) _by Unknown_ [Unreleased] [Unknown]
+[https://github.com/Kirby64Ret/Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp) _by [Kirby64Ret](https://github.com/Kirby64Ret)_ [Unreleased] [Active]
 
 WRITE DESCRIPTION HERE
 
@@ -57,13 +57,13 @@ WRITE DESCRIPTION HERE
 
 #### Quest 64 :lock: :bell:
 
-[https://youtu.be/NtSDwwZqJ5A?si=A93gIoB3QYPCB9td&t=196](https://youtu.be/NtSDwwZqJ5A?si=A93gIoB3QYPCB9td&t=196) _by Unknown_ [Unreleased] [Unknown]
+[https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) _by [Rainchus](https://github.com/Rainchus)_ [Unreleased] [Active]
 
 WRITE DESCRIPTION HERE
 
 #### Super Smash Bros :lock: :bell:
 
-[https://youtu.be/NtSDwwZqJ5A?si=St3MLQuqpyBEaI_F&t=171](https://youtu.be/NtSDwwZqJ5A?si=St3MLQuqpyBEaI_F&t=171) _by Unknown_ [Unreleased] [Unknown]
+[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) _by [Zestydevy](https://github.com/Zestydevy)_ [Unreleased] [Active]
 
 WRITE DESCRIPTION HERE
 
