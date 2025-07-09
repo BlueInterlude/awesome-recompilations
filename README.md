@@ -25,7 +25,7 @@ WRITE DESCRIPTION HERE
 
 WRITE DESCRIPTION HERE
 
-#### Kirby and the Crystal Shards :unlock: :bell:
+#### Kirby and the Crystal Shards :lock: :bell:
 
 [https://youtu.be/NtSDwwZqJ5A?si=if0sZh28ocq-XM_i&t=180](https://youtu.be/NtSDwwZqJ5A?si=if0sZh28ocq-XM_i&t=180) _by Unknown_ [Unreleased] [Unknown]
 
