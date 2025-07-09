@@ -15,6 +15,7 @@ Please ensure your pull request adheres to the following guidelines:
         - If you are not sure who the developer is (in the case the project is unreleased), write `Unknown`.
         - If the project is under an organization, you may write the organization name instead of a singular developer.
         - If the project does not currently have a GitHub repository, link to the user's socials if those socials are currently being used to talk about the project.
+    - If possible, include pictures or videos of the game running. 
 - This project is strictly for recompilation projects using N64Recomp and XenonRecomp. Any pull requests adding projects not using these tools will not be accepted.
 
 
