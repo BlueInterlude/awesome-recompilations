@@ -128,7 +128,7 @@ WRITE DESCRIPTION HERE
 
 :lock: :bell:
 
-[https://bsky.app/profile/isaacmarovitz.com/post/3lthdfe53ss2c](https://bsky.app/profile/isaacmarovitz.com/post/3lthdfe53ss2c) _by [isaacmarovitz](https://bsky.app/profile/isaacmarovitz.com)_ [Unreleased] [Active]
+[https://github.com/ga2mer/MarathonRecomp](https://github.com/ga2mer/MarathonRecomp) _by [ga2mer](https://github.com/ga2mer)_ [Unreleased] [Active]
 
 WRITE DESCRIPTION HERE
 
