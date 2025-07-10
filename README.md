@@ -1,5 +1,5 @@
 # awesome-recompilations
-Recompiled N64 and Xbox 360 ROMs using N64Recomp and XenonRecomp.
+Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/N64Recomp) and [XenonRecomp](https://github.com/hedge-dev/XenonRecomp).
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
