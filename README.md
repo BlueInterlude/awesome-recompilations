@@ -3,7 +3,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Table of Contents
+## Contents
 
 ### N64
 
