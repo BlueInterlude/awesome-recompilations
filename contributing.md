@@ -19,13 +19,6 @@ Please ensure your pull request adheres to the following guidelines:
                     - If you are not sure who the developer is (in the case the project is unreleased), write `Unknown`.
                     - If the project is under an organization, you may write the organization name instead of a singular developer.
                     - If the project does not currently have a GitHub repository, link to the user's socials if those socials are currently being used to talk about the project.
-        3. After the brief blurb about the project, include a brief description about the project and its notable features.
-            - At the beginning of a description, include the following information:
-                - Commentary - [@you](https://github.com/you)
-            - Notable features may include mods or texture packs. If referencing a mod or texture pack, include a link, the creator, and a brief description of the mod. Only list at most five notable features. 
-                - For example: 
-                    - The Zelda 64 Recompilation features a "Modern Controller Overhaul" mod allowing users to configure the HUD to match whichever controller they are using. To download the mod, see https://thunderstore.io/c/zelda-64-recompiled/p/tomtee/Modern_Controller_Overhaul/.         
-        4. At the bottom of the body, if possible, include pictures or videos of the game running. 
 - This project is strictly for recompilation projects using N64Recomp and XenonRecomp. Any pull requests adding projects not using these tools will not be accepted.
 
 ---
