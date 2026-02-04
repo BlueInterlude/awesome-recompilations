@@ -9,12 +9,12 @@ Please ensure your pull request adheres to the following guidelines:
         - Write the name of the game.
     - Body Section:
         1. Emojis:
-            - At the beginning of a game's description, include an emoji indicating if the project is released, and an emoji indicating if the project is currently active. If the project is released, use `:white_check_mark:`, if the project is not released, use `:x:`. If the project is currently active, use `:bell:`, if the project is currently inactive, use `:no_bell:`
+            - At the beginning of a game's description, include an emoji indicating if the project is released, and an emoji indicating if the project is currently active. If the project is released, use `:white_check_mark:`, if the project is not released, use `:x:`. If the project is currently active, use `:bell:`, if the project is currently inactive, use `:no_bell:`. If unsure, use `:question:`. 
         2. Below the emoji, include the following blurb about the recompilation:
             - [link](link) _by [Developer Name](link)_ [Is the project released?] [Project Status]
                 - Project Status: 
                     - Include if the project is released and can be downloaded. If the project has a public release, write [Released] in brackets at the end of the entry. If the project is still a work in progress and cannot be downloaded, write [`Unreleased`].
-                    - Include if the project is currently active. If the project has not received updates in a year or longer, the project is not active. Write `Active` or `Inactive` in brackets at the end of the entry. If the project has not been released, write `Unknown.
+                    - Include if the project is currently active. If the project has not received updates in a year or longer, the project is not active. Write `Active` or `Inactive` in brackets at the end of the entry. If the project has not been released, write `Unknown`.
                 - Credits:
                     - If you are not sure who the developer is (in the case the project is unreleased), write `Unknown`.
                     - If the project is under an organization, you may write the organization name instead of a singular developer.
