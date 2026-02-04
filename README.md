@@ -42,6 +42,24 @@ WRITE DESCRIPTION HERE
 
 WRITE DESCRIPTION HERE
 
+#### Dr. Mario 64
+
+:unlock: :bell:
+
+[https://github.com/theboy181/drmario64_recomp_plus](https://github.com/theboy181/drmario64_recomp_plus) _by [theboy181](https://github.com/theboy181)_
+[Released] [Active]
+
+WRITE DESCRIPTION HERE
+
+#### Duke Nukem: Zero Hour
+
+:unlock: :bell:
+
+[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp) _by [Sonicdcer](https://github.com/sonicdcer)_
+[Released] [Active]
+
+WRITE DESCRIPTION HERE
+
 #### GoldenEye 007 
 
 :lock: :bell: 
