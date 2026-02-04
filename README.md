@@ -31,7 +31,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 :white_check_mark: :bell:
 
-[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) _by [BanjoRecomp](https://github.com/BanjoRecomp)
+[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) _by [BanjoRecomp](https://github.com/BanjoRecomp) [Released] [Active]
 
 #### Chameleon Twist 
 
