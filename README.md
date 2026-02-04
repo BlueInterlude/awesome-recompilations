@@ -5,7 +5,9 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 ## Contents
 
-- [N64](#n6)
+
+- [Key](#key)
+- [N64](#n64)
     - [Banjo-Kazooie](#banjo-kazooie)
     - [Chameleon Twist](#chameleon-twist)
     - [Dinosaur Planet](#dinosaur-planet)
@@ -24,6 +26,30 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Midnight Club Los Angeles](#midnight-club-los-angeles)
     - [Sonic 06](#sonic-06)
     - [Sonic Unleashed](#sonic-unleashed)
+
+### Key    
+
+**Release Status**
+
+* :white_check_mark:
+    * Project is released and available for download
+    * This **does not** include projects that can be locally built and played
+* :x: 
+    * Project is not released and is not available for download
+    * **Do not** request status updates from the authors of these recompilations
+    * Releases will happen when the project is ready to be released
+
+**Project Status**
+
+* :bell:
+    * Project is active within the last year
+    * Activity is noted by commits
+* :no_bell:
+    * Project has not been active for longer than a year
+    * **Do not** request status updates from the authors of these recompilations
+* :question:
+    * It is unclear if the project is still active
+    * **Do not** request status updates from the authors of these recompilations
 
 ### N64
 
