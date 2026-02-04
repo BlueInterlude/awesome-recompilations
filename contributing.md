@@ -9,7 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
         - Write the name of the game.
     - Body Section:
         1. Emojis:
-            - At the beginning of a game's description, include an emoji indicating if the project is released, and an emoji indicating if the project is currently active. If the project is released, use `:unlock:`, if the project is not released, use `:lock:`. If the project is currently active, use `:bell:`, if the project is currently inactive, use `:no_bell:`
+            - At the beginning of a game's description, include an emoji indicating if the project is released, and an emoji indicating if the project is currently active. If the project is released, use `:white_check_mark:`, if the project is not released, use `:x:`. If the project is currently active, use `:bell:`, if the project is currently inactive, use `:no_bell:`
         2. Below the emoji, include the following blurb about the recompilation:
             - [link](link) _by [Developer Name](link)_ [Is the project released?] [Project Status]
                 - Project Status: 
