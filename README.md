@@ -7,6 +7,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 
 - [Key](#key)
+- [Template](#template)
 - [N64](#n64)
     - [Banjo-Kazooie](#banjo-kazooie)
     - [Chameleon Twist](#chameleon-twist)
@@ -26,7 +27,6 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Super Smash Bros](#super-smash-bros)
 - [Xbox 360](#xbox-360) 
     - [Goldeneye 007](#goldeneye-007-1)
-    - [Midnight Club Los Angeles](#midnight-club-los-angeles)
     - [Sonic 06](#sonic-06)
     - [Sonic Unleashed](#sonic-unleashed)
 
@@ -54,130 +54,135 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     * It is unclear if the project is still active
     * **Do not** request status updates from the authors of these recompilations
 
+### Template
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://github.com/](https://github.com/) 
+    
 ### N64
 
 #### Banjo-Kazooie
 
 :white_check_mark: :bell:
+[Released] [Active]
 
-[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) _by [BanjoRecomp](https://github.com/BanjoRecomp) [Released] [Active]
+[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) 
 
 #### Chameleon Twist 
 
 :white_check_mark: :bell:
+[Unreleased] [Active]
 
-[https://github.com/Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) _by [Rainchus](https://github.com/Rainchus)_ [Unreleased] [Active]
+[https://github.com/Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) 
 
 #### Dinosaur Planet 
 
 :white_check_mark: :bell:
+[Released] [Active]
 
-[https://github.com/Francessco121/dino-recomp](https://github.com/Francessco121/dino-recomp) _by [Francessco121](https://github.com/Francessco121)_ [Released] [Active]
+[https://github.com/Francessco121/dino-recomp](https://github.com/Francessco121/dino-recomp) 
 
 #### Dr. Mario 64
 
 :white_check_mark: :bell:
-
-[https://github.com/theboy181/drmario64_recomp_plus](https://github.com/theboy181/drmario64_recomp_plus) _by [theboy181](https://github.com/theboy181)_
 [Released] [Active]
+
+[https://github.com/theboy181/drmario64_recomp_plus](https://github.com/theboy181/drmario64_recomp_plus)
 
 #### Duke Nukem: Zero Hour
 
 :white_check_mark: :bell:
-
-[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp) _by [Sonicdcer](https://github.com/sonicdcer)_
 [Released] [Active]
+
+[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp)
 
 #### GoldenEye 007 
 
 :x: :bell: 
+[Unreleased] [Active]
 
-[https://github.com/kholdfuzion/GoldenRecomp](https://github.com/kholdfuzion/GoldenRecomp) _by [kholdfuzion](https://github.com/kholdfuzion)_ [Unreleased] [Active]
+[https://github.com/kholdfuzion/GoldenRecomp](https://github.com/kholdfuzion/GoldenRecomp) 
 
 #### Kirby and the Crystal Shards 
 
 :x: :bell:
+[Unreleased] [Active]
 
-[https://github.com/Kirby64Ret/Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp) _by [Kirby64Ret](https://github.com/Kirby64Ret)_ [Unreleased] [Active]
+[https://github.com/Kirby64Ret/Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp) 
 
 #### The Legend of Zelda Majora's Mask 
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) _by [Zelda64Recomp](https://github.com/Zelda64Recomp)_ [Released] [Active]
+[https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 
 
 #### The Legend of Zelda Ocarina of Time 
 
-:x: :bell:
+:x: :bell: [Unreleased] [Active]
 
-[https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) _by [Zelda64Recomp](https://github.com/Zelda64Recomp)_ [Unreleased] [Active]
+[https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 
 
 #### Mario Kart 64 
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) _by [sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
+[https://github.com/sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) 
 
 #### Mega Man 64
+ 
+:white_check_mark: :bell: [Released] [Active]
 
-:white_check_mark: :bell:
-
-[https://github.com/MegaMan64Recomp/MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled) [Released] [Active]
+[https://github.com/MegaMan64Recomp/MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled) 
 
 #### Mystical Ninja Starring Goemon 
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) _by [klorfmorf](https://github.com/klorfmorf)_ [Released] [Active]
+[https://github.com/klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) 
 
 #### Quest 64 
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Unreleased] [Active]
 
-[https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) _by [Rainchus](https://github.com/Rainchus)_ [Unreleased] [Active]
-
-#### Star Fox 64
-
-:white_check_mark: :bell:
-
-[https://github.com/sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp) [Released] [Active]
+[https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) 
 
 #### Space Station Silicon Valley
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/Cellenseres/SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp) [Released] [Active]
+[https://github.com/Cellenseres/SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp) 
+
+#### Star Fox 64
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://github.com/sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp) 
 
 #### Super Smash Bros 
 
-:x: :bell:
+:x: :bell: [Unreleased] [Active]
 
-[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) _by [Zestydevy](https://github.com/Zestydevy)_ [Unreleased] [Active]
+[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) 
 
 ### Xbox 360
 
 #### Goldeneye 007 
 
-:x: :bell:
+:x: :bell: [Unreleased] [Active]
 
-[https://github.com/kholdfuzion/beanRecomp](https://github.com/kholdfuzion/beanRecomp) _by [kholdfuzion](https://github.com/kholdfuzion)_ [Unreleased] [Active]
-
-#### Midnight Club Los Angeles 
-
-:x: :bell:
-
-[https://old.reddit.com/r/midnightclub/comments/1j62suw/mcla_port_to_pc_news/](https://old.reddit.com/r/midnightclub/comments/1j62suw/mcla_port_to_pc_news/) _by [AMZxs](https://old.reddit.com/user/AMZxs)_ [Unreleased] [Active]
+[https://github.com/kholdfuzion/beanRecomp](https://github.com/kholdfuzion/beanRecomp)  
 
 #### Sonic 06 
 
-:x: :bell:
+:x: :bell: [Unreleased] [Active]
 
-[https://github.com/ga2mer/MarathonRecomp](https://github.com/ga2mer/MarathonRecomp) _by [ga2mer](https://github.com/ga2mer)_ [Unreleased] [Active]
+[https://github.com/ga2mer/MarathonRecomp](https://github.com/ga2mer/MarathonRecomp)  
 
 #### Sonic Unleashed
 
-:white_check_mark: :bell:
+:white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) _by [hedge-dev](https://github.com/hedge-dev)_ [Released] [Active]
+[https://github.com/hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) 
 
 
