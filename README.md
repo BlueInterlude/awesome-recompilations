@@ -18,8 +18,11 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [The Legend of Zelda Majora's Mask](#the-legend-of-zelda-majoras-mask)
     - [The Legend of Zelda Ocarina of Time](#the-legend-of-zelda-ocarina-of-time)
     - [Mario Kart 64](#mario-kart-64)
+    - [Mega Man 64](#mega-man-64)
     - [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon)
     - [Quest 64](#quest-64)
+    - [Space Station Silicon Valley](#space-station-silicon-valley)
+    - [Star Fox 64](#star-fox-64)
     - [Super Smash Bros](#super-smash-bros)
 - [Xbox 360](#xbox-360) 
     - [Goldeneye 007](#goldeneye-007-1)
@@ -115,6 +118,12 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 [https://github.com/sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) _by [sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
 
+#### Mega Man 64
+
+:white_check_mark: :bell:
+
+[https://github.com/MegaMan64Recomp/MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled) [Released] [Active]
+
 #### Mystical Ninja Starring Goemon 
 
 :white_check_mark: :bell:
@@ -126,6 +135,18 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 :white_check_mark: :bell:
 
 [https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) _by [Rainchus](https://github.com/Rainchus)_ [Unreleased] [Active]
+
+#### Star Fox 64
+
+:white_check_mark: :bell:
+
+[https://github.com/sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp) [Released] [Active]
+
+#### Space Station Silicon Valley
+
+:white_check_mark: :bell:
+
+[https://github.com/Cellenseres/SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp) [Released] [Active]
 
 #### Super Smash Bros 
 
