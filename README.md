@@ -10,6 +10,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 - [Template](#template)
 - [N64](#n64)
     - [Banjo-Kazooie](#banjo-kazooie)
+    - [Bomberman 64](#bomberman-64)
     - [Chameleon Twist](#chameleon-twist)
     - [Dinosaur Planet](#dinosaur-planet)
     - [Dr. Mario 64](#dr-mario-64)
@@ -68,6 +69,12 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 [Released] [Active]
 
 [https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) 
+
+### Bomberman 64
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://github.com/RevoSucks/BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
 
 #### Chameleon Twist 
 
