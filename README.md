@@ -11,11 +11,13 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 - [N64](#n64)
     - [Banjo-Kazooie](#banjo-kazooie)
     - [Bomberman 64](#bomberman-64)
+    - [Bomberman Hero](#bomberman-hero)
     - [Chameleon Twist](#chameleon-twist)
     - [Dinosaur Planet](#dinosaur-planet)
     - [Dr. Mario 64](#dr-mario-64)
     - [Duke Nukem: Zero Hour](#duke-nukem-zero-hour)
     - [GoldenEye 007](#goldeneye-007)
+    - [Harvest Moon 64](#harvest-moon-64)
     - [Kirby and the Crystal Shards](#kirby-and-the-crystal-shards)
     - [The Legend of Zelda Majora's Mask](#the-legend-of-zelda-majoras-mask)
     - [The Legend of Zelda Ocarina of Time](#the-legend-of-zelda-ocarina-of-time)
@@ -70,51 +72,57 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 [https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) 
 
-### Bomberman 64
+#### Bomberman 64
 
 :white_check_mark: :bell: [Released] [Active]
 
 [https://github.com/RevoSucks/BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
 
+#### Bomberman Hero
+
+:x: :bell: [Unreleased] [Active]
+
+[https://github.com/RevoSucks/BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp)
+
 #### Chameleon Twist 
 
-:white_check_mark: :bell:
-[Unreleased] [Active]
+:white_check_mark: :bell: [Unreleased] [Active]
 
 [https://github.com/Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) 
 
 #### Dinosaur Planet 
 
-:white_check_mark: :bell:
-[Released] [Active]
+:white_check_mark: :bell: [Released] [Active]
 
 [https://github.com/Francessco121/dino-recomp](https://github.com/Francessco121/dino-recomp) 
 
 #### Dr. Mario 64
 
-:white_check_mark: :bell:
-[Released] [Active]
+:white_check_mark: :bell: [Released] [Active]
 
 [https://github.com/theboy181/drmario64_recomp_plus](https://github.com/theboy181/drmario64_recomp_plus)
 
 #### Duke Nukem: Zero Hour
 
-:white_check_mark: :bell:
-[Released] [Active]
+:white_check_mark: :bell: [Released] [Active]
 
 [https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp)
 
 #### GoldenEye 007 
 
-:x: :bell: 
-[Unreleased] [Active]
+:x: :bell:  [Unreleased] [Active]
 
 [https://github.com/kholdfuzion/GoldenRecomp](https://github.com/kholdfuzion/GoldenRecomp) 
 
+#### Harvest Moon 64
+
+:x: :bell: [Unreleased] [Active]
+
+[https://www.youtube.com/watch?v=kmNLVq8INYk](https://www.youtube.com/watch?v=kmNLVq8INYk)
+
 #### Kirby and the Crystal Shards 
 
-:x: :bell:
-[Unreleased] [Active]
+:x: :bell: [Unreleased] [Active]
 
 [https://github.com/Kirby64Ret/Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp) 
 
