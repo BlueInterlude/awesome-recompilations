@@ -9,6 +9,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 - [Key](#key)
 - [Template](#template)
 - [N64](#n64)
+    - [Mods](#mods)
     - [Banjo-Kazooie](#banjo-kazooie)
     - [Bomberman 64](#bomberman-64)
     - [Bomberman Hero](#bomberman-hero)
@@ -64,6 +65,13 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 [https://github.com/](https://github.com/) 
     
 ### N64
+
+#### Mods
+
+* [Banjo-Kazooie](https://thunderstore.io/c/banjo-recompiled/)
+* [Bomberman 64](https://thunderstore.io/c/bomberman-64-recompiled/)
+* [Dinosaur Planet](https://thunderstore.io/c/dinosaur-planet-recompiled/)
+* [The Legend of Zelda Majora's Mask](https://thunderstore.io/c/zelda-64-recompiled/)
 
 #### Banjo-Kazooie
 
