@@ -74,6 +74,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 * [Bomberman 64](https://thunderstore.io/c/bomberman-64-recompiled/)
 * [Dinosaur Planet](https://thunderstore.io/c/dinosaur-planet-recompiled/)
 * [The Legend of Zelda Majora's Mask](https://thunderstore.io/c/zelda-64-recompiled/)
+* [Star Fox 64](https://thunderstore.io/c/starfox-64-recompiled/)
 
 #### Banjo-Kazooie
 
@@ -128,7 +129,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 :x: :bell: [Unreleased] [Active]
 
-[https://www.youtube.com/watch?v=kmNLVq8INYk](https://www.youtube.com/watch?v=kmNLVq8INYk)
+[https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp](https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp)
 
 #### Kirby and the Crystal Shards 
 
