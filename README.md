@@ -173,7 +173,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 #### Quest 64 
 
-:white_check_mark: :bell: [Unreleased] [Active]
+:x: :bell: [Unreleased] [Active]
 
 [https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) 
 
