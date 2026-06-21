@@ -167,7 +167,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 #### Pilotwings 64
 
-:white_check_mark: :bell: [Unreleased] [Active]
+:x: :bell: [Unreleased] [Active]
 
 [https://github.com/gcsmith/Pilotwings64Recomp](https://github.com/gcsmith/Pilotwings64Recomp)
 
