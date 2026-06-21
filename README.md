@@ -22,6 +22,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Kirby and the Crystal Shards](#kirby-and-the-crystal-shards)
     - [The Legend of Zelda Majora's Mask](#the-legend-of-zelda-majoras-mask)
     - [The Legend of Zelda Ocarina of Time](#the-legend-of-zelda-ocarina-of-time)
+    - [Mario Golf](#mario-golf)
     - [Mario Kart 64](#mario-kart-64)
     - [Mega Man 64](#mega-man-64)
     - [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon)
@@ -146,6 +147,12 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 :x: :bell: [Unreleased] [Active]
 
 [https://github.com/Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 
+
+#### Mario Golf
+
+:x: :bell: [Unreleased] [Active]
+
+[https://github.com/Rainchus/MarioGolf64](https://github.com/Rainchus/MarioGolf64)
 
 #### Mario Kart 64 
 
