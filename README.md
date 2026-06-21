@@ -5,7 +5,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 ## Contents
 
-
+- [AI](#ai)
 - [Key](#key)
 - [Template](#template)
 - [N64](#n64)
@@ -36,6 +36,12 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Sonic 06](#sonic-06)
     - [Sonic Unleashed](#sonic-unleashed)
 
+### AI
+
+This repository matches the AI stance taken on the N64 Recomp server. Any recomps that are not in accord with the following rule (quoted from the "#welcome-and-rules" channel) will not be listed on this repository:
+
+> We do not support AI generated codebases. Any projects found to be "vibe coded" will not be showcased or supported within this Server and we will remove all instances of it that we find.
+    
 ### Key    
 
 **Release Status**
