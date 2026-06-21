@@ -28,7 +28,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Pilotwings 64](#pilotwings-64)
     - [Quest 64](#quest-64)
     - [Star Fox 64](#star-fox-64)
-    - [Superman 64](#superman-64)
+    - [Superman 64](#superman64)
     - [Super Smash Bros](#super-smash-bros)
 - [Xbox 360](#xbox-360) 
     - [Goldeneye 007](#goldeneye-007-1)
@@ -183,17 +183,17 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 
 [https://github.com/sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp) 
 
-#### Super Smash Bros 
-
-:x: :bell: [Unreleased] [Active]
-
-[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) 
-
 #### Superman 64
 
 :x: :bell: [Unreleased] [Active]
 
 [https://github.com/gcsmith/Superman64Recomp](https://github.com/gcsmith/Superman64Recomp)
+
+#### Super Smash Bros 
+
+:x: :bell: [Unreleased] [Active]
+
+[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) 
 
 ### Xbox 360
 
