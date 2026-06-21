@@ -28,8 +28,9 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon)
     - [Pilotwings 64](#pilotwings-64)
     - [Quest 64](#quest-64)
+    - [Snowboard Kids 2](#snowboard-kids-2)
     - [Star Fox 64](#star-fox-64)
-    - [Superman 64](#superman64)
+    - [Superman 64](#superman-64)
     - [Super Smash Bros](#super-smash-bros)
 - [Xbox 360](#xbox-360) 
     - [Goldeneye 007](#goldeneye-007-1)
@@ -190,6 +191,12 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 :x: :bell: [Unreleased] [Active]
 
 [https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) 
+
+#### Snowboard Kids 2
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://github.com/cdlewis/snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp)
 
 #### Star Fox 64
 
