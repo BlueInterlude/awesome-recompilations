@@ -134,7 +134,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 #### Harvest Moon 64
 
-:x: :bell: [Unreleased] [Active]
+:white_check_mark: :bell: [Released] [Active]
 
 [https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp](https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp)
 
