@@ -15,6 +15,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Bomberman Hero](#bomberman-hero)
     - [Chameleon Twist](#chameleon-twist)
     - [Dinosaur Planet](#dinosaur-planet)
+    - [Donkey Kong 64](#donkey-kong-64)
     - [Dr. Mario 64](#dr-mario-64)
     - [Duke Nukem: Zero Hour](#duke-nukem-zero-hour)
     - [GoldenEye 007](#goldeneye-007)
@@ -104,9 +105,15 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 #### Chameleon Twist 
 
-:white_check_mark: :bell: [Unreleased] [Active]
+:x: :bell: [Unreleased] [Active]
 
 [https://github.com/Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) 
+
+#### Donkey Kong 64
+
+:x: :bell: [Unreleased] [Active]
+
+[https://www.youtube.com/watch?v=RYIZZZ33vAI](https://www.youtube.com/watch?v=RYIZZZ33vAI)
 
 #### Dinosaur Planet 
 
