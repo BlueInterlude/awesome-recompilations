@@ -13,6 +13,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Banjo-Kazooie](#banjo-kazooie)
     - [Bomberman 64](#bomberman-64)
     - [Bomberman Hero](#bomberman-hero)
+    - [Castlevania 64](#castlevania-64)
     - [Chameleon Twist](#chameleon-twist)
     - [Dinosaur Planet](#dinosaur-planet)
     - [Donkey Kong 64](#donkey-kong-64)
@@ -102,6 +103,12 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 :x: :bell: [Unreleased] [Active]
 
 [https://github.com/RevoSucks/BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp)
+
+#### Castlevania 64
+
+:x: :bell: [Unreleased] [Active]
+
+[https://github.com/RevoSucks/CV64Recomp](https://github.com/RevoSucks/CV64Recomp)
 
 #### Chameleon Twist 
 
