@@ -19,6 +19,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Donkey Kong 64](#donkey-kong-64)
     - [Dr. Mario 64](#dr-mario-64)
     - [Duke Nukem: Zero Hour](#duke-nukem-zero-hour)
+    - [Extreme-G](#extreme-g)
     - [GoldenEye 007](#goldeneye-007)
     - [Harvest Moon 64](#harvest-moon-64)
     - [Kirby and the Crystal Shards](#kirby-and-the-crystal-shards)
@@ -139,7 +140,13 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 :white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp)
+[https://gitlab.com/sonicdcer/DNZHRecomp/-/releases](https://gitlab.com/sonicdcer/DNZHRecomp/-/releases)
+
+#### Extreme-G
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://gitlab.com/sonicdcer/ExtremeGRecomp/-/releases](https://gitlab.com/sonicdcer/ExtremeGRecomp/-/releases)
 
 #### GoldenEye 007 
 
@@ -181,7 +188,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 :white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) 
+[https://gitlab.com/sonicdcer/MarioKart64Recomp/-/releases](https://gitlab.com/sonicdcer/MarioKart64Recomp/-/releases) 
 
 #### Mega Man 64
  
@@ -217,7 +224,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 :white_check_mark: :bell: [Released] [Active]
 
-[https://github.com/sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp) 
+[https://gitlab.com/sonicdcer/Starfox64Recomp/-/releases](https://gitlab.com/sonicdcer/Starfox64Recomp/-/releases) 
 
 #### Superman 64
 
