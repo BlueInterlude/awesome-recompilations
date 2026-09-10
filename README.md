@@ -84,6 +84,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 * [Banjo-Kazooie](https://thunderstore.io/c/banjo-recompiled/)
 * [Bomberman 64](https://thunderstore.io/c/bomberman-64-recompiled/)
 * [Dinosaur Planet](https://thunderstore.io/c/dinosaur-planet-recompiled/)
+* [Donkey Kong 64](https://dk64recomp.com/mods.html)
 * [Harvest Moon 64](https://thunderstore.io/c/harvest-moon-64-recompiled/)
 * [The Legend of Zelda Majora's Mask](https://thunderstore.io/c/zelda-64-recompiled/)
 * [Star Fox 64](https://thunderstore.io/c/starfox-64-recompiled/)
