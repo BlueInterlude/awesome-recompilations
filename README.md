@@ -120,9 +120,9 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 #### Donkey Kong 64
 
-:x: :bell: [Unreleased] [Active]
+:white_check_mark: :bell: [Released] [Active]
 
-[https://www.youtube.com/watch?v=RYIZZZ33vAI](https://www.youtube.com/watch?v=RYIZZZ33vAI)
+[https://github.com/Rainchus/Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled)
 
 #### Dinosaur Planet 
 
