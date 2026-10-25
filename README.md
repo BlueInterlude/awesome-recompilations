@@ -224,7 +224,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 [https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp)
 
-#### Snowboard Kids 2
+#### Snowboard Kids
 
 :white_check_mark: :bell: [Released] [Active]
 
