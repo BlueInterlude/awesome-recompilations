@@ -31,7 +31,6 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Mega Man 64](#mega-man-64)
     - [Mystical Ninja Starring Goemon](#mystical-ninja-starring-goemon)
     - [Pilotwings 64](#pilotwings-64)
-    - [Pokemon Snap](#pokemon-snap)
     - [Quest 64](#quest-64)
     - [Snowboard Kids](#snowboard-kids)
     - [Snowboard Kids 2](#snowboard-kids-2)
@@ -218,12 +217,6 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 :x: :bell: [Unreleased] [Active]
 
 [https://github.com/gcsmith/Pilotwings64Recomp](https://github.com/gcsmith/Pilotwings64Recomp)
-
-#### Pokemon Snap
-
-:x: :bell: [Unreleased] [Active]
-
-[https://github.com/ExpansionPak/Snapshot](https://github.com/ExpansionPak/Snapshot)
 
 #### Quest 64 
 
