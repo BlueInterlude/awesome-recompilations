@@ -11,6 +11,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
 - [N64](#n64)
     - [Mods](#mods)
     - [Banjo-Kazooie](#banjo-kazooie)
+    - [Blast Corps](#blast-corps)
     - [Bomberman 64](#bomberman-64)
     - [Bomberman Hero](#bomberman-hero)
     - [Castlevania 64](#castlevania-64)
@@ -32,6 +33,7 @@ Recompiled N64 and Xbox 360 ROMs using [N64Recomp](https://github.com/N64Recomp/
     - [Pilotwings 64](#pilotwings-64)
     - [Pokemon Snap](#pokemon-snap)
     - [Quest 64](#quest-64)
+    - [Snowboard Kids](#snowboard-kids)
     - [Snowboard Kids 2](#snowboard-kids-2)
     - [Star Fox 64](#star-fox-64)
     - [Superman 64](#superman-64)
@@ -94,7 +96,14 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 :white_check_mark: :bell:
 [Released] [Active]
 
-[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) 
+[https://github.com/BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
+
+#### Blast Corps
+
+:white_check_mark: :bell:
+[Released] [Active]
+
+[https://github.com/SlaveOfIDO/blastcorps-recomp](https://github.com/SlaveOfIDO/blastcorps-recomp)
 
 #### Bomberman 64
 
@@ -220,7 +229,13 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 :x: :bell: [Unreleased] [Active]
 
-[https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) 
+[https://github.com/Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp)
+
+#### Snowboard Kids 2
+
+:white_check_mark: :bell: [Released] [Active]
+
+[https://github.com/cdlewis/snowboardkids-recomp](https://github.com/cdlewis/snowboardkids-recomp)
 
 #### Snowboard Kids 2
 
@@ -244,7 +259,7 @@ This repository matches the AI stance taken on the N64 Recomp server. Any recomp
 
 :x: :bell: [Unreleased] [Active]
 
-[https://github.com/zestydevy/smash64r](https://github.com/zestydevy/smash64r) 
+[https://github.com/Smash64Recomp](https://github.com/Smash64Recomp)
 
 ### Xbox 360
 
